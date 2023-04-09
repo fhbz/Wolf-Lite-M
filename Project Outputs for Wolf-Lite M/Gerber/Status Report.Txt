@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Wolf-Lite M.PcbDoc]
+   Generated File[Wolf-Lite M.TXT]
+   Generated File[Wolf-Lite M.LDP]
+   Generated File[Wolf-Lite M.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:57:47 On 09.04.2023

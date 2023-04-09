@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:22:36 On 28.05.2021
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Wolf-Lite M.PrjPcb]
+   Generated File[Bill of Materials-Wolf-Lite M.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:22:48 On 28.05.2021
